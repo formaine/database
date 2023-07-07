@@ -1,0 +1,11 @@
+.map-container {
+    position: absolute;
+    top: 3.5em;
+    bottom: 3.5em;
+    left: 0;
+    right: 0;
+}
+
+.bg-white absolute bottom right mr12 mb24 py12 px12 shadow-darken10 round z1 wmax180 {
+    top:4em;
+}

@@ -1,0 +1,34 @@
+
+
+
+ .opacityToggle:hover {
+    fill: white;
+    cursor: pointer;
+  }
+
+
+ .modalToggle:hover {
+     fill: white;
+     cursor: pointer;
+ }
+
+ .layerToTopGroup {
+     cursor: pointer;
+     fill: currentColor;
+     width: 1em;
+     height: 1.25em;
+     viewBox: 0 0 24 24;
+ }
+
+ .layerToTopGroup:hover .layerToTop {
+     cursor: pointer;
+     fill: white;
+
+ }
+
+
+
+ .accordion-content {
+     padding: 1em 0.5em !important;
+ }
+

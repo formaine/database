@@ -1,0 +1,61 @@
+
+
+
+nav-link.active a {
+    color: #398848 !important;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+
+
+nav-link a:hover {
+    color: #398848 !important;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.navbar.navbar-expand-lg {
+    padding: 0 1rem;
+    background: #02422b;
+    border-bottom: 7px solid #398848;
+}
+
+
+#navbarResponsiveCustom > ul > li.nav-item.active > a {
+    color: #EFD19F;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+
+.icon-bar {
+    display: block;
+    width: 22px;
+    background-color: #fc0808;
+    height: 1.5px;
+    margin-top: 7px;
+    border-radius: 1px;
+}
+
+.nav-item {
+    margin: 0px;
+}
+
+@media screen and (max-width: 555px) {
+
+    .induforLogo {
+        display: none !important;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+
+    .brand {
+        display: none !important;
+    }
+}
