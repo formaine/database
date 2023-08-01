@@ -1,48 +1,38 @@
 .plotlyMegaregion {
-    position: absolute;
-    z-index: 1;
-    right: 3vw;
-    top: 12vh;
-    background-color: #FAFAFA;
-    border-radius: 10px;
+  position: absolute;
+  z-index: 1;
+  right: 3vw;
+  top: 12vh;
+  background-color: #fafafa;
+  border-radius: 10px;
 }
-
 
 @media screen and (max-width: 1500px) {
-
-    .plotlyMegaregion {
-        right: 5vw;
-    }
+  .plotlyMegaregion {
+    right: 5vw;
+  }
 }
-
 
 @media screen and (max-width: 1000px) {
-
-    .plotlyMegaregion {
-        right: 6vw;
-    }
+  .plotlyMegaregion {
+    right: 6vw;
+  }
 }
-
 
 @media screen and (max-width: 700px) {
-
-    .plotlyMegaregion {
-        right: 6.5vw;
-    }
+  .plotlyMegaregion {
+    right: 6.5vw;
+  }
 }
-
 
 @media screen and (max-width: 637px) {
-
-    .plotlyMegaregion {
-        display: none;
-    }
+  .plotlyMegaregion {
+    display: none;
+  }
 }
 
-
 @media screen and (max-height: 570px) {
-
-    .plotlyMegaregion {
-        display: none;
-    }
+  .plotlyMegaregion {
+    display: none;
+  }
 }

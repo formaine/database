@@ -1,327 +1,316 @@
 .legendBox {
-    background-color: #c8c8c8;
-    position: absolute;
-    border-radius: 3px;
-    display: inline-block;
+  background-color: #c8c8c8;
+  position: absolute;
+  border-radius: 3px;
+  display: inline-block;
 
-    bottom: 3vh;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    right: 1vw;
-    overflow-y: auto;
-    width: 24vw;
-    max-height: 21vh;
-    z-index: 1;
+  bottom: 3vh;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  right: 1vw;
+  overflow-y: auto;
+  width: 24vw;
+  max-height: 21vh;
+  z-index: 1;
 }
-
 
 .siteSelection {
-    background-color: #fff;
-    position: relative;
-    left: 0;
-    top: 0vh;
-    margin-bottom: 1vh;
-    border-radius: 3px;
-    bottom: 30px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    padding: 10px;
-    width: 100%;
-    /*height: 17vh;*/
-    z-index: 1;
+  background-color: #fff;
+  position: relative;
+  left: 0;
+  top: 0vh;
+  margin-bottom: 1vh;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  padding: 10px;
+  width: 100%;
+  /*height: 17vh;*/
+  z-index: 1;
 }
 
-
-
 .siteSelection h4 {
-    margin: 0 0 10px;
+  margin: 0 0 10px;
 }
 
 .siteSelection div span {
-    display: inline-block;
-    height: 1.5vh;
-    margin-right: 0.25vw;
-    width: 1.5vh;
+  display: inline-block;
+  height: 1.5vh;
+  margin-right: 0.25vw;
+  width: 1.5vh;
 
-    -moz-border-radius: 50%; /* or 50% */
-    border-radius: 50%; /* or 50% */
-
+  -moz-border-radius: 50%; /* or 50% */
+  border-radius: 50%; /* or 50% */
 }
-
 
 .maineMills {
-    background-color: #fff;
-    position: relative;
-    left: 0;
-    top: 0vh;
-    margin-bottom: 1vh;
-    border-radius: 3px;
-    bottom: 30px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    padding: 10px;
-    width: 100%;
-    /*height: 20vh;*/
-    z-index: 1;
+  background-color: #fff;
+  position: relative;
+  left: 0;
+  top: 0vh;
+  margin-bottom: 1vh;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  padding: 10px;
+  width: 100%;
+  /*height: 20vh;*/
+  z-index: 1;
 }
 
-
-
 .maineMills h4 {
-    margin: 0 0 10px;
+  margin: 0 0 10px;
 }
 
 .maineMills div span {
-    display: inline-block;
-    border-left: 1vh solid white;
-    border-right: 1vh solid white;
+  display: inline-block;
+  border-left: 1vh solid white;
+  border-right: 1vh solid white;
 
-
-    border-bottom: 1.5vh solid transparent;
-
+  border-bottom: 1.5vh solid transparent;
 }
-
-
 
 .ownership {
-    background-color: #fff;
-    position: relative;
-    left: 0;
-    top: 0vh;
-    margin-bottom: 1vh;
-    border-radius: 3px;
-    bottom: 30px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    padding: 10px;
-    width: 100%;
-    height: 17vh;
-    z-index: 1;
+  background-color: #fff;
+  position: relative;
+  left: 0;
+  top: 0vh;
+  margin-bottom: 1vh;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  padding: 10px;
+  width: 100%;
+  height: 17vh;
+  z-index: 1;
 }
 
-
-
 .ownership h4 {
-    margin: 0 0 10px;
+  margin: 0 0 10px;
 }
 
 .ownership div span {
-    display: inline-block;
-    height: 1.5vh;
-    margin-right: 0.25vw;
-    width: 0.75vw;
-
+  display: inline-block;
+  height: 1.5vh;
+  margin-right: 0.25vw;
+  width: 0.75vw;
 }
-
-
-
 
 .vernalPools {
-    background-color: #fff;
-    position: relative;
-    left: 0;
-    top: 0vh;
-    margin-bottom: 1vh;
-    border-radius: 3px;
-    bottom: 30px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    padding: 10px;
-    width: 100%;
-    height: 10vh;
-    z-index: 1;
+  background-color: #fff;
+  position: relative;
+  left: 0;
+  top: 0vh;
+  margin-bottom: 1vh;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  padding: 10px;
+  width: 100%;
+  height: 10vh;
+  z-index: 1;
 }
 
-
-
 .vernalPools h4 {
-    margin: 0 0 10px;
+  margin: 0 0 10px;
 }
 
 .vernalPools div span {
-    display: inline-block;
-    height: 1.5vh;
-    margin-right: 0.25vw;
-    width: 0.75vw;
-
+  display: inline-block;
+  height: 1.5vh;
+  margin-right: 0.25vw;
+  width: 0.75vw;
 }
-
-
 
 .conservedAreas {
-    background-color: #fff;
-    position: relative;
-    left: 0;
-    top: 0vh;
-    margin-bottom: 1vh;
-    border-radius: 3px;
-    bottom: 30px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    padding: 10px;
-    width: 100%;
-    /*height: 10vh;*/
-    z-index: 1;
+  background-color: #fff;
+  position: relative;
+  left: 0;
+  top: 0vh;
+  margin-bottom: 1vh;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  padding: 10px;
+  width: 100%;
+  /*height: 10vh;*/
+  z-index: 1;
 }
 
-
-
 .conservedAreas h4 {
-    margin: 0 0 10px;
+  margin: 0 0 10px;
 }
 
 .conservedAreas div span {
-    display: inline-block;
-    height: 1.5vh;
-    margin-right: 0.25vw;
-    width: 0.75vw;
-
+  display: inline-block;
+  height: 1.5vh;
+  margin-right: 0.25vw;
+  width: 0.75vw;
 }
 
 .newMarketTaxCredits {
-    background-color: #fff;
-    position: relative;
-    left: 0;
-    top: 0vh;
-    margin-bottom: 1vh;
-    border-radius: 3px;
-    bottom: 30px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    padding: 10px;
-    width: 100%;
-    /*height: 10vh;*/
-    z-index: 1;
+  background-color: #fff;
+  position: relative;
+  left: 0;
+  top: 0vh;
+  margin-bottom: 1vh;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  padding: 10px;
+  width: 100%;
+  /*height: 10vh;*/
+  z-index: 1;
 }
-
-
 
 .newMarketTaxCredits h4 {
-    margin: 0 0 10px;
+  margin: 0 0 10px;
 }
-
 
 .newMarketTaxCredits div span {
-    display: inline-block;
-    height: 1.5vh;
-    margin-right: 0.25vw;
-    width: 0.75vw;
-
+  display: inline-block;
+  height: 1.5vh;
+  margin-right: 0.25vw;
+  width: 0.75vw;
 }
-
-
-
 
 .qualifiedOpportunityZones {
-    background-color: #fff;
-    position: relative;
-    left: 0;
-    top: 0vh;
-    margin-bottom: 1vh;
-    border-radius: 3px;
-    bottom: 30px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    padding: 10px;
-    width: 100%;
-    /*height: 10vh;*/
-    z-index: 1;
+  background-color: #fff;
+  position: relative;
+  left: 0;
+  top: 0vh;
+  margin-bottom: 1vh;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  padding: 10px;
+  width: 100%;
+  /*height: 10vh;*/
+  z-index: 1;
 }
-
-
 
 .qualifiedOpportunityZones h4 {
-    margin: 0 0 10px;
+  margin: 0 0 10px;
 }
-
 
 .qualifiedOpportunityZones div span {
-    display: inline-block;
-    height: 1.5vh;
-    margin-right: 0.25vw;
-    width: 0.75vw;
-
+  display: inline-block;
+  height: 1.5vh;
+  margin-right: 0.25vw;
+  width: 0.75vw;
 }
-
-
-
 
 .railRoads {
-    background-color: #fff;
-    position: relative;
-    left: 0;
-    top: 0vh;
-    margin-bottom: 1vh;
-    border-radius: 3px;
-    bottom: 30px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    padding: 10px;
-    width: 100%;
-    /*height: 10vh;*/
-    z-index: 1;
+  background-color: #fff;
+  position: relative;
+  left: 0;
+  top: 0vh;
+  margin-bottom: 1vh;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  padding: 10px;
+  width: 100%;
+  /*height: 10vh;*/
+  z-index: 1;
 }
-
-
 
 .railRoads h4 {
-    margin: 0 0 10px;
+  margin: 0 0 10px;
 }
-
 
 .railRoads div span {
-    display: inline-block;
-    height: 0.35vh;
-    margin-bottom: 0.5vh;
-    margin-right: 0.25vw;
-    width: 1.25vw;
-
+  display: inline-block;
+  height: 0.35vh;
+  margin-bottom: 0.5vh;
+  margin-right: 0.25vw;
+  width: 1.25vw;
 }
-
-
 
 .privateRoads {
-    background-color: #fff;
-    position: relative;
-    left: 0;
-    top: 0vh;
-    margin-bottom: 1vh;
-    border-radius: 3px;
-    bottom: 30px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    padding: 10px;
-    width: 100%;
-    height: 10vh;
-    z-index: 1;
+  background-color: #fff;
+  position: relative;
+  left: 0;
+  top: 0vh;
+  margin-bottom: 1vh;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font:
+    16px/20px "Helvetica Neue",
+    Arial,
+    Helvetica,
+    sans-serif;
+  padding: 10px;
+  width: 100%;
+  height: 10vh;
+  z-index: 1;
 }
-
-
 
 .privateRoads h4 {
-    margin: 0 0 10px;
+  margin: 0 0 10px;
 }
 
-
 .privateRoads div span {
-    display: inline-block;
-    height: 0.35vh;
-    margin-bottom: 0.5vh;
-    margin-right: 0.25vw;
-    width: 1.25vw;
-
+  display: inline-block;
+  height: 0.35vh;
+  margin-bottom: 0.5vh;
+  margin-right: 0.25vw;
+  width: 1.25vw;
 }
 
 @media screen and (max-height: 745px) {
-
-    .legendBox {
-        display: none;
-    }
+  .legendBox {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 1100px) {
-
-    .legendBox {
-        display: none;
-    }
+  .legendBox {
+    display: none;
+  }
 }

@@ -1,33 +1,27 @@
-
-
 .react-tabs__tab {
-    color: darkslategrey !important;
-    text-decoration: none !important;
+  color: darkslategrey !important;
+  text-decoration: none !important;
 }
 
-
-.react-tabs__tab:hover{
-    color: #398848 !important;
-    font-weight: 500;
-    cursor: pointer;
-    text-decoration: none !important;
+.react-tabs__tab:hover {
+  color: #398848 !important;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none !important;
 }
 
-
-.react-tabs__tab--selected{
-    color: #398848 !important;
-    font-weight: 500;
-    cursor: pointer;
-    text-decoration: none !important;
+.react-tabs__tab--selected {
+  color: #398848 !important;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none !important;
 }
 
 .selectAvailable {
-    font-weight: bold;
-    display: flex;
-    justify-content: center; /* align horizontal */
-    align-items: center; /* align vertical */
-    height: 330px;
-    overflow: hidden;
-
+  font-weight: bold;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+  height: 330px;
+  overflow: hidden;
 }
-

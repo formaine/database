@@ -1,6 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, /*Footer,*/ Home, MillSites, DataHighlights } from "./components";
+import {
+  Navigation,
+  /*Footer,*/ Home,
+  MillSites,
+  DataHighlights,
+} from "./components";
 function App() {
   return (
     <div className="App">
@@ -9,12 +14,15 @@ function App() {
         <Switch>
           <Route path="/" exact component={() => <Home />} />
 
-          <Route path="/DataHighlights" exact component={() => <DataHighlights />} />
+          <Route
+            path="/DataHighlights"
+            exact
+            component={() => <DataHighlights />}
+          />
         </Switch>
       </Router>
     </div>
   );
 }
-
 
 export default App;

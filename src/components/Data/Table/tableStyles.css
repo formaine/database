@@ -1,20 +1,19 @@
 @media screen and (max-width: 1200px) {
+  .popTable {
+    width: 100%;
+  }
 
-    .popTable {
-        width: 100%;
-    }
-
-    .wagesTable {
-        width: 100%;
-    }
+  .wagesTable {
+    width: 100%;
+  }
 }
 
 .wagesTable {
-    overflow-x: auto;
-    overflow-y: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
 }
 
 .popTable {
-    overflow-x: auto;
-    overflow-y: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
 }

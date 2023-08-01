@@ -1,31 +1,29 @@
-
 .financingHover:hover {
-    fill: white;
-    cursor: pointer;
+  fill: white;
+  cursor: pointer;
 }
 
-
 .randdHover:hover {
-    fill: white;
-    cursor: pointer;
+  fill: white;
+  cursor: pointer;
 }
 
 .resourceHover:hover {
-    fill: white;
-    cursor: pointer;
+  fill: white;
+  cursor: pointer;
 }
 
 .marketHover:hover {
-    fill: white;
-    cursor: pointer;
+  fill: white;
+  cursor: pointer;
 }
 
 .infrastructureHover:hover {
-    fill: white;
-    cursor: pointer;
+  fill: white;
+  cursor: pointer;
 }
 
 .workforceHover:hover {
-    fill: white;
-    cursor: pointer;
+  fill: white;
+  cursor: pointer;
 }

@@ -1,5 +1,5 @@
 {
-  "name": "maineRight",
+  "name": "database",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,13 +13,11 @@
     "axios": "^0.20.0",
     "bls2": "^1.0.2",
     "bootstrap": "^4.6.0",
-    "citysdk": "^2.1.4",
     "create-react-class": "^15.6.3",
     "d3": "^5.12.0",
     "image-sdf": "^1.0.4",
     "lodash": "^4.17.20",
     "mapbox-gl": "^1.12.0",
-    "node-sass": "^4.14.1",
     "papaparse": "^5.3.0",
     "plotly.js": "^1.58.4",
     "prop-types": "^15.7.2",
