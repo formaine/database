@@ -1,5 +1,4 @@
-# FOR/Maine Database - Project Archive
-[Site](https://formaine.netlify.app/)
+# [FOR/Maine Database - Project Archive](https://formaine.netlify.app/)
 
 ## Overview
 
@@ -143,6 +142,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+When deploying to netlify remember to include a netlify.toml that includes the following (to handle redirects):
+
+```
+[build]
+  functions = "functions"
+  publish = "build"
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+```
 
 ### `npm run build`
 
